@@ -4,7 +4,11 @@
 # 使用方法
 1、将html文件复制到漫画图片所在文件夹里。  
 
+![image](https://github.com/cw2012/comic-translator/raw/master/.gitignore/1.jpg)
+
 2、如果图片已经重命名为：“1.jpg”“2.jpg”“3.jpg”……“11.jpg”，则只需填写 “共有？幅图”这一个空格就行了。 
+
+![image](https://github.com/cw2012/comic-translator/raw/master/.gitignore/1.jpg)
 
 3、如果图片已经重命名为：“01.jpg”“02.jpg”“03.jpg”……“11.jpg”，则还需填写 “？位数”为2。 
 
