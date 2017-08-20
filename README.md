@@ -68,4 +68,4 @@
 3、滚动后，隐藏设定框
 
 # 问题反馈
-给[我的微博](http://weibo.com/liangxiafengge)发送私信
+给![](http://weibo.com/favicon.ico "新浪微博") [我的微博](http://weibo.com/liangxiafengge "新浪微博")发送私信
